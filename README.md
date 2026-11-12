@@ -15,8 +15,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshilprajapati2006-prog&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+</p>
 
----
 
 ## 🚀 About Me
 
@@ -127,40 +129,6 @@
 **Tech:** React 19, Vite, FastAPI, MongoDB Atlas, Three.js.
 
 🔗 [Live Website](https://web-wonder-2026.vercel.app/)  
-🔗 [Original Team Repository](https://github.com/garv-svnitcse/web_wonder_2026)
-
----
-
-### 3. Mobile Forensics Tool
-
-**ECHELON 2026 Hackathon — Finalist**
-
-- Built a solution for digital evidence extraction and suspicious activity detection from mobile devices.
-- Implemented automated evidence extraction, timeline reconstruction and geospatial analysis.
-- Developed the application using Python, Streamlit and Android Debug Bridge (ADB).
-
-**Tech:** Python, Streamlit, ADB.
-
----
-
-### 4. QuantDB — Quantitative Finance Database
-
-**Currently in Development**
-
-- Designing a relational database system focused on quantitative finance workflows.
-- Developing structured data models for securities, market data, orders, trades and portfolios.
-- Exploring database integration for trading strategies and backtesting.
-
-**Tech:** MySQL, Python, SQL.
-
----
-
-### 5. AyurSutra — Panchakarma Patient Management
-
-**Smart India Hackathon 2025 | Team Tesseract**
-
-- Developed the concept for a HealthTech solution focused on Panchakarma patient management.
-- Contributed to the project idea and hackathon submission.
 
 ---
 
