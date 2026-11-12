@@ -175,18 +175,37 @@
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=darshilprajapati2006-prog&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilprajapati2006-prog&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshilprajapati2006-prog&theme=github_dark"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshilprajapati2006-prog&theme=github_dark"
+    alt="Repositories by Language"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshilprajapati2006-prog&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshilprajapati2006-prog&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=darshilprajapati2006-prog&theme=midnight-purple&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
 
 ## 🐍 Contribution Activity
 
