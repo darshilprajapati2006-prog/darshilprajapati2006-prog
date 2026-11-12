@@ -188,10 +188,14 @@
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshilprajapati2006-prog&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" />
+  <img
+    src="https://raw.githubusercontent.com/darshilprajapati2006-prog/darshilprajapati2006-prog/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </p>
 
 ---
